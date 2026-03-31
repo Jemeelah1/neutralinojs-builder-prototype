@@ -1,0 +1,12 @@
+{
+  "name": "neu-builder",
+  "version": "1.0.0",
+  "description": "Neutralinojs Builder Prototype",
+  "main": "builder.js",
+  "bin": {
+    "builder": "./builder.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}
